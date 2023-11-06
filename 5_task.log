@@ -1,0 +1,34 @@
+31/10/2023 20:48:18 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 20:48:18 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols=USD HTTP/1.1" 200 None
+31/10/2023 21:02:30 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 21:02:30 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols=CNY HTTP/1.1" 200 None
+31/10/2023 21:02:37 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 21:02:38 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols=CNY HTTP/1.1" 200 None
+31/10/2023 21:03:04 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 21:03:05 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols=CNY HTTP/1.1" 200 None
+31/10/2023 21:05:00 - root - INFO - Expenses entered: 1
+31/10/2023 21:05:00 - root - INFO - Expenses entered: 2
+31/10/2023 21:05:01 - root - INFO - Expenses entered: 3
+31/10/2023 21:05:01 - root - INFO - Expenses entered: 4
+31/10/2023 21:05:02 - root - DEBUG - Expenses in total entered: [1, 2, 3, 4]
+31/10/2023 21:05:02 - root - DEBUG - Sum of expenses: 10
+31/10/2023 21:05:04 - root - INFO - Profit is: 34.0
+31/10/2023 21:05:04 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 21:05:04 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols=CNY HTTP/1.1" 200 None
+31/10/2023 21:05:12 - root - INFO - Expenses entered: 1
+31/10/2023 21:05:13 - root - INFO - Expenses entered: 2
+31/10/2023 21:05:14 - root - INFO - Expenses entered: 3
+31/10/2023 21:05:15 - root - DEBUG - Expenses in total entered: [1, 2, 3]
+31/10/2023 21:05:15 - root - DEBUG - Sum of expenses: 6
+31/10/2023 21:05:20 - root - INFO - Profit is: 37.4
+31/10/2023 21:05:20 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 21:05:20 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols=CNY HTTP/1.1" 200 None
+31/10/2023 21:13:13 - root - INFO - Expenses entered: 20
+31/10/2023 21:13:14 - root - INFO - Expenses entered: 50
+31/10/2023 21:13:14 - root - INFO - Expenses entered: 60
+31/10/2023 21:13:15 - root - DEBUG - Expenses in total entered: [20, 50, 60]
+31/10/2023 21:13:15 - root - DEBUG - Sum of expenses: 130
+31/10/2023 21:13:25 - root - INFO - Profit is: 739.5
+31/10/2023 21:13:25 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): data.fixer.io:80
+31/10/2023 21:13:26 - urllib3.connectionpool - DEBUG - http://data.fixer.io:80 "GET /api/latest?access_key=7b305a85fb112f3b93e6d738c24d5803&symbols=USD HTTP/1.1" 200 None
+31/10/2023 21:13:26 - root - INFO - 1.058341
